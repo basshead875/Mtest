@@ -1,0 +1,6 @@
+This is a file that is going to be merged
+1. master
+2.testa
+3.testb
+4.testc
+Each line leaves the trace by branches
